@@ -1,0 +1,6 @@
+{
+  "name": "CaptionFlow AI",
+  "description": "Generate, customize, and organize engaging social media captions for Instagram, TikTok, Facebook, and WhatsApp with AI and smart offline templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
