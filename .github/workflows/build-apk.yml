@@ -1,4 +1,4 @@
-name: Build CaptionFlow AI APK
+name: Build CaptionFlow AI  APK
 
 on:
   push:
